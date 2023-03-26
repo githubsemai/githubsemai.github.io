@@ -27,3 +27,9 @@ section {
     background-color: lightskyblue;
     color: white;
 }
+
+.img wa {
+    margin: auto;
+    width: 3px;
+    height: 3px;
+}
